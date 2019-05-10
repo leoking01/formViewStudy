@@ -1,2 +1,2 @@
 ui：
-<img src="./ui.PNG" />
+<img src="./ui.png" />
